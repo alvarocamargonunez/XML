@@ -1,0 +1,18 @@
+﻿
+
+----JSON----
+
+1) Programa que liste todas las pedanías de los mercados.
+2)Programa que muestre el numero de puesto en cada mercado.
+3)Introduce un identificador(DIA DE LA SEMANA) y muestra los mercados que montan los puestos ese día.
+4)Introduce una subcadena y si coincide con la pedania de los mercados muestre la direccion.
+5) Muestres los mercados en cuyo numero de puestos sea mayor a 18.
+
+----XML---
+
+1)Listar todos los clubs.
+2)Muesta el nombre de cada club y su numero de registro.
+3) Introducir el nombre de un club y mostrar su dirección.
+4)Introduce una subcadena , en el caso que coincida con un numero de teléfono muestre de que club se trata.
+5)Muestra los clubs que su numero de telefono sea un telefono fijo (empiecen por 9)
+
