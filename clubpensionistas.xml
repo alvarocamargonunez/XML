@@ -1,0 +1,372 @@
+<club-pensionistas>
+  <club>
+    <nombre>Club de Pensionistas de La Escucha</nombre>
+    <tipoasociacion>Club de Pensionistas</tipoasociacion>
+    <numRegistro>350</numRegistro>
+    <cif>G-73121261</cif>
+    <direccion>La Escucha, El Estanco buzon nº 48  </direccion>
+    <codpostal>30813 </codpostal>
+    <telefono>678282202</telefono>
+    <fconstitucion>2001-01-23T00:00:00+01:00</fconstitucion>
+  </club>
+  <club>
+    <nombre>Club de Pensionistas y Jubilados de Cazalla</nombre>
+    <tipoasociacion>Club de Pensionistas</tipoasociacion>
+    <numRegistro>153</numRegistro>
+    <cif>G-73031775</cif>
+    <direccion>Travesía de la Asociación, nº 7 C, Panel 52, Dip. Cazalla  </direccion>
+    <codpostal> 30818</codpostal>
+    <telefono>968 462 240</telefono>
+  </club>
+  <club>
+    <nombre>Club de Pensionistas y Jubilados de Zarzadilla de Totana</nombre>
+    <tipoasociacion>Club de Pensionistas</tipoasociacion>
+    <numRegistro>365</numRegistro>
+    <direccion>Centro Social de Zarzadilla de Totana  </direccion>
+    <codpostal>30814</codpostal>
+    <telefono>968494062</telefono>
+    <fconstitucion>1998-05-12T00:00:00+02:00</fconstitucion>
+  </club>
+  <club>
+    <nombre>Club de Pensionistas y Jubilados  de Virgen de las Huertas</nombre>
+    <tipoasociacion>Club de Pensionistas</tipoasociacion>
+    <numRegistro>376</numRegistro>
+    <cif>G-30588073</cif>
+    <direccion>Plaza del Rey Sabio s/n    </direccion>
+    <codpostal>30800</codpostal>
+    <telefono>630 446 884</telefono>
+  </club>
+  <club>
+    <nombre>Club de Pensionistas y Jubilados de San José de Lorca</nombre>
+    <tipoasociacion>Club de Pensionistas</tipoasociacion>
+    <numRegistro>358</numRegistro>
+    <cif>G-73158479</cif>
+    <direccion>Placeta de San Jose (Parque Pepe Plazas), 15    </direccion>
+    <codpostal>30800</codpostal>
+    <telefono>679830611</telefono>
+  </club>
+  <club>
+    <nombre>Club de Pensionistas y Jubilados del Centro Social Paso a Nivel.</nombre>
+    <tipoasociacion>Club de Pensionistas</tipoasociacion>
+    <numRegistro>131</numRegistro>
+    <cif>G-30586408</cif>
+    <direccion>Avda. Cervantes s/n   </direccion>
+    <codpostal>30800</codpostal>
+    <telefono>696 222 014</telefono>
+  </club>
+  <club>
+    <nombre>Club de Pensionistas y Jubilados de la Viña</nombre>
+    <tipoasociacion>Club de Pensionistas</tipoasociacion>
+    <numRegistro>101</numRegistro>
+    <cif>G-30583124</cif>
+    <direccion>c/ Guillermo Oliver, s/n</direccion>
+    <codpostal>30800</codpostal>
+    <telefono>619 0047 61</telefono>
+    <fconstitucion>1998-02-26T00:00:00+01:00</fconstitucion>
+  </club>
+  <club>
+    <nombre>Club de Pensionistas y Jubilados de la Escarihuela</nombre>
+    <tipoasociacion>Club de Pensionistas</tipoasociacion>
+    <numRegistro>351</numRegistro>
+    <direccion>Centro Social de La Escarihuela, s/n</direccion>
+    <codpostal>30813</codpostal>
+    <telefono>968485592</telefono>
+    <fconstitucion>2006-06-02T00:00:00+02:00</fconstitucion>
+  </club>
+  <club>
+    <nombre>Club de Pensionistas y Jubilados de Purias</nombre>
+    <tipoasociacion>Club de Pensionistas</tipoasociacion>
+    <numRegistro>353</numRegistro>
+    <cif>G-30524805</cif>
+    <direccion>Camino de las Monjas, Dip. de Purias</direccion>
+    <codpostal>30813</codpostal>
+    <fconstitucion>1996-06-24T00:00:00+02:00</fconstitucion>
+  </club>
+  <club>
+    <nombre>Club de Pensionistas y Jubilados de los Ángeles</nombre>
+    <tipoasociacion>Club de Pensionistas</tipoasociacion>
+    <numRegistro>218</numRegistro>
+    <cif>G-73019200</cif>
+    <direccion>Nuevo Parque s/n (Los Ángeles)</direccion>
+    <codpostal>30800</codpostal>
+    <telefono>659618601</telefono>
+    <fconstitucion>2011-01-08T00:00:00+01:00</fconstitucion>
+  </club>
+  <club>
+    <nombre>Club de Pensionistas y Jubilados de Almendricos</nombre>
+    <tipoasociacion>Club de Pensionistas</tipoasociacion>
+    <numRegistro>152</numRegistro>
+    <cif>G-30484497</cif>
+    <direccion>C/Mayor, 59 Dip.Almendricos</direccion>
+    <codpostal>30893</codpostal>
+    <telefono>968 440 115</telefono>
+    <fax>968 440 115                                       </fax>
+    <email>i.ayala@mediadoreslaestrella.es</email>
+    <fconstitucion>2004-04-28T00:00:00+02:00</fconstitucion>
+  </club>
+  <club>
+    <nombre>Club de Pensionistas y Jubilados de Calvario de Lorca</nombre>
+    <tipoasociacion>Club de Pensionistas</tipoasociacion>
+    <numRegistro>347</numRegistro>
+    <cif>G-30595953</cif>
+    <direccion>C/Alonso Vargas, 5   </direccion>
+    <codpostal>30800</codpostal>
+    <longitud>20/04/1998</longitud>
+    <telefono>968463562</telefono>
+  </club>
+  <club>
+    <nombre>Club de Pensinistas y Jubilados de la Diputación de Aviles</nombre>
+    <tipoasociacion>Club de Pensionistas</tipoasociacion>
+    <numRegistro>151</numRegistro>
+    <cif>G-73021669</cif>
+    <direccion>Dip. Avilés, Centro Social</direccion>
+    <codpostal>30812</codpostal>
+    <telefono>606237188</telefono>
+  </club>
+  <club>
+    <nombre>Club de Pensionistas y Jubilados de Coy</nombre>
+    <tipoasociacion>Club de Pensionistas</tipoasociacion>
+    <numRegistro>344</numRegistro>
+    <cif>G-73021503</cif>
+    <direccion>C/ Consultorio (Coy)</direccion>
+    <codpostal>30812</codpostal>
+    <telefono>968499111</telefono>
+  </club>
+  <club>
+    <nombre>Club de Pensionistas de Tercia</nombre>
+    <tipoasociacion>Club de Pensionistas</tipoasociacion>
+    <numRegistro>258</numRegistro>
+    <cif>G-30410138</cif>
+    <direccion>Camino de Villaespesa- Tercia</direccion>
+    <codpostal>30815</codpostal>
+    <fconstitucion>1994-04-25T00:00:00+02:00</fconstitucion>
+  </club>
+  <club>
+    <nombre>Club de Pensionistas y Jubilados de La Campana</nombre>
+    <tipoasociacion>Club de Pensionistas</tipoasociacion>
+    <numRegistro>346</numRegistro>
+    <cif>G-30487466</cif>
+    <direccion>El Cabildo y La Campana-Pozo Higuera, buzon 75  </direccion>
+    <codpostal>30813 </codpostal>
+    <telefono>617678988</telefono>
+  </club>
+  <club>
+    <nombre>Club de Pensionistas y Jubilados de Ramonete</nombre>
+    <tipoasociacion>Club de Pensionistas</tipoasociacion>
+    <numRegistro>366</numRegistro>
+    <cif>G-73297574</cif>
+    <direccion>Local Social, Las Librilleras, s/n</direccion>
+    <codpostal>30876</codpostal>
+    <telefono>609330351</telefono>
+    <email>mcalvoz@terra.es</email>
+    <fconstitucion>2004-02-13T00:00:00+01:00</fconstitucion>
+  </club>
+  <club>
+    <nombre>Club de Pensionistas y Jubilados de la Diputación de Rio</nombre>
+    <tipoasociacion>Club de Pensionistas</tipoasociacion>
+    <numRegistro>468</numRegistro>
+    <cif>G-30596381</cif>
+    <direccion>Centro Social de Diputación Rïo</direccion>
+    <codpostal>30812</codpostal>
+    <telefono>639 685 392</telefono>
+  </club>
+  <club>
+    <nombre>Club de Pensionistas y Jubilados de Doña Inés</nombre>
+    <tipoasociacion>Club de Pensionistas</tipoasociacion>
+    <numRegistro>361</numRegistro>
+    <cif>G-73238685</cif>
+    <direccion>C/ Escuelas. Diputación Doña Inés.</direccion>
+    <codpostal>30812</codpostal>
+    <telefono>968491540</telefono>
+    <fconstitucion>2002-12-30T00:00:00+01:00</fconstitucion>
+  </club>
+  <club>
+    <nombre>Club de Pensionistas y Jubilados Alfonso X el Sabio</nombre>
+    <tipoasociacion>Club de Pensionistas</tipoasociacion>
+    <numRegistro>354</numRegistro>
+    <cif>G-30582654</cif>
+    <direccion>C/ Eras Altas de San José, s/n</direccion>
+    <codpostal>30800</codpostal>
+    <telefono>660 959 356</telefono>
+    <fconstitucion>1998-03-04T00:00:00+01:00</fconstitucion>
+  </club>
+  <club>
+    <nombre>Club de Pensionistas y Jubilados de Zarcilla de Ramos</nombre>
+    <tipoasociacion>Club de Pensionistas</tipoasociacion>
+    <numRegistro>352</numRegistro>
+    <cif>G-73023475</cif>
+    <direccion>C/ Transformador, Local de los Mayores</direccion>
+    <codpostal>30810</codpostal>
+    <telefono>968 499 384</telefono>
+    <fconstitucion>1998-11-09T00:00:00+01:00</fconstitucion>
+  </club>
+  <club>
+    <nombre>Asociación Club de Pensionistas de Los Barrios Altos de Santa María</nombre>
+    <tipoasociacion>Club de Pensionistas</tipoasociacion>
+    <numRegistro>397</numRegistro>
+    <cif>G-73591026</cif>
+    <direccion>C/ Sicilia s/n</direccion>
+    <codpostal>30800</codpostal>
+    <telefono>666 925 395</telefono>
+    <fconstitucion>2008-02-29T00:00:00+01:00</fconstitucion>
+  </club>
+  <club>
+    <nombre>Club de Pensionistas y Jubilados de Morata</nombre>
+    <tipoasociacion>Club de Pensionistas</tipoasociacion>
+    <numRegistro>385</numRegistro>
+    <cif>G-73575615</cif>
+    <direccion>Local Social de La Ermita</direccion>
+    <codpostal>30878</codpostal>
+    <fconstitucion>2008-03-12T00:00:00+01:00</fconstitucion>
+  </club>
+  <club>
+    <nombre>Club de Pensionistas y Jubilados de La Hoya</nombre>
+    <tipoasociacion>Club de Pensionistas</tipoasociacion>
+    <numRegistro>359</numRegistro>
+    <cif>G-73027120</cif>
+    <direccion>Ctra. Hinojar s/n</direccion>
+    <codpostal>30816</codpostal>
+    <telefono>67 854 544 - 968481603</telefono>
+    <fconstitucion>1999-01-07T00:00:00+01:00</fconstitucion>
+  </club>
+  <club>
+    <nombre>Club de Pensionistas y Jubilados de La Paca</nombre>
+    <tipoasociacion>Club de Pensionistas</tipoasociacion>
+    <numRegistro>364</numRegistro>
+    <cif>G-73014250</cif>
+    <direccion>C/ Centro de Salud nº1- Dip.La Paca</direccion>
+    <codpostal>30812</codpostal>
+    <telefono>968 491 261</telefono>
+    <fconstitucion>1998-12-04T00:00:00+01:00</fconstitucion>
+  </club>
+  <club>
+    <nombre>Club de Pensionistas y Jubilados de San Cristóbal</nombre>
+    <tipoasociacion>Club de Pensionistas</tipoasociacion>
+    <numRegistro>343</numRegistro>
+    <cif>G-30600191</cif>
+    <direccion>C/ Huercal Overa</direccion>
+    <codpostal>30800</codpostal>
+    <telefono>660 898 211</telefono>
+    <fconstitucion>1986-01-01T00:00:00+01:00</fconstitucion>
+  </club>
+  <club>
+    <nombre>Club de Pensionistas y Jubilados de San Juan</nombre>
+    <tipoasociacion>Club de Pensionistas</tipoasociacion>
+    <numRegistro>363</numRegistro>
+    <cif>G-73001943</cif>
+    <direccion>Zapatería nº 17</direccion>
+    <codpostal>30800</codpostal>
+    <telefono>968 414 341</telefono>
+  </club>
+  <club>
+    <nombre>Club de Pensionistas y Jubilados de Sutullena</nombre>
+    <tipoasociacion>Club de Pensionistas</tipoasociacion>
+    <numRegistro>368</numRegistro>
+    <cif>G-73069080</cif>
+    <direccion>Camino Hondo-Sutullena, nº 13</direccion>
+    <telefono>677 286 959</telefono>
+  </club>
+  <club>
+    <nombre>Club de Pensionistas y Jubilados de Marchena</nombre>
+    <tipoasociacion>Club de Pensionistas</tipoasociacion>
+    <numRegistro>357</numRegistro>
+    <cif>G-30497713</cif>
+    <direccion>Centro Social de Marchena, junto a las escuelas</direccion>
+    <codpostal>30815</codpostal>
+    <telefono>608 238 965</telefono>
+    <fconstitucion>1999-01-22T00:00:00+01:00</fconstitucion>
+  </club>
+  <club>
+    <nombre>Asociación de Pensionistas y Jubilados "Cervantes" de Lorca</nombre>
+    <tipoasociacion>Club de Pensionistas</tipoasociacion>
+    <numRegistro>92</numRegistro>
+    <cif>g-30586408</cif>
+    <direccion>C/ Carlos Barberán, nº 1 - Bajo</direccion>
+    <codpostal>30800</codpostal>
+    <telefono>968 469 904</telefono>
+    <fconstitucion>1998-02-27T00:00:00+01:00</fconstitucion>
+  </club>
+  <club>
+    <nombre>Club de Pensionistas y Jubilados de Ramblilla de San Lázaro</nombre>
+    <tipoasociacion>Club de Pensionistas</tipoasociacion>
+    <numRegistro>140</numRegistro>
+    <cif>G-73038713</cif>
+    <direccion>C/ Almazara de Bravo, nº 1 (Centro Social de San Lázaro)</direccion>
+    <codpostal>30800</codpostal>
+    <telefono>868925625</telefono>
+  </club>
+  <club>
+    <nombre>Club de Pensionistas y Jubilados de Campo López</nombre>
+    <tipoasociacion>Club de Pensionistas</tipoasociacion>
+    <numRegistro>345</numRegistro>
+    <cif>G-73562373</cif>
+    <direccion>Centro Social de Campo López en la diputación de Campo López.</direccion>
+    <codpostal>30815</codpostal>
+    <fconstitucion>2005-06-10T00:00:00+02:00</fconstitucion>
+  </club>
+  <club>
+    <nombre>Club de Pensionistas y Jubilados de Campillo</nombre>
+    <tipoasociacion>Club de Pensionistas</tipoasociacion>
+    <numRegistro>348</numRegistro>
+    <cif>G-30305056</cif>
+    <direccion>Centro Social del Campillo. Diputación Campillo.</direccion>
+    <codpostal>30813</codpostal>
+    <fconstitucion>1995-11-10T00:00:00+01:00</fconstitucion>
+  </club>
+  <club>
+    <nombre>Club de Pensionistas y Jubilados de Sagrada Familia.</nombre>
+    <tipoasociacion>Club de Pensionistas</tipoasociacion>
+    <numRegistro>355</numRegistro>
+    <cif>30817</cif>
+    <direccion>Centro Social de Sagrada Familia. Puente Resinoli. s/n</direccion>
+    <codpostal>30817</codpostal>
+    <fconstitucion>1998-05-26T00:00:00+02:00</fconstitucion>
+  </club>
+  <club>
+    <nombre>Club de Pensionistas y Jubilados de San Antonio</nombre>
+    <tipoasociacion>Club de Pensionistas</tipoasociacion>
+    <numRegistro>349</numRegistro>
+    <cif>G-30483176</cif>
+    <direccion>Centro Social de San Antonio. Calle Mariscal Pedro Musso</direccion>
+    <codpostal>30800</codpostal>
+    <fconstitucion>1998-03-13T00:00:00+01:00</fconstitucion>
+  </club>
+  <club>
+    <nombre>Club de Pensionistas y Jubilados de Santa María</nombre>
+    <tipoasociacion>Club de Pensionistas</tipoasociacion>
+    <numRegistro>362</numRegistro>
+    <cif>G-30594626</cif>
+    <direccion>Centro Social de Santa María. C/ Sicilia, s/n</direccion>
+    <codpostal>30800</codpostal>
+    <fconstitucion>1998-04-06T00:00:00+02:00</fconstitucion>
+  </club>
+  <club>
+    <nombre>Ásociación de Pensionistas y Jubilados del Barrio de Apolonia "La Candelaria".</nombre>
+    <tipoasociacion>Club de Pensionistas</tipoasociacion>
+    <numRegistro>444</numRegistro>
+    <cif>G-73636441</cif>
+    <direccion>Avda. Fuerzas Armadas, 32</direccion>
+    <codpostal>30800</codpostal>
+    <telefono>629 634 388</telefono>
+    <fconstitucion>2009-06-22T00:00:00+02:00</fconstitucion>
+  </club>
+  <club>
+    <nombre>Club de Pensionistas y Jubilados de Zarzadilla de Totana</nombre>
+    <tipoasociacion>Club de Pensionistas</tipoasociacion>
+    <numRegistro>527</numRegistro>
+    <cif>G-73041824</cif>
+    <direccion>C/ San Miguel, Zarzadilla de Totana (Centro Social)</direccion>
+    <codpostal>30814</codpostal>
+    <fconstitucion>1998-05-12T00:00:00+02:00</fconstitucion>
+  </club>
+  <club>
+    <nombre>ASOCIACIÓN DE MAYORES DE LOS CEGARRAS - NOGALTE</nombre>
+    <tipoasociacion>Club de Pensionistas</tipoasociacion>
+    <numRegistro>539</numRegistro>
+    <cif>G-73886756</cif>
+    <direccion>CENTRO SOCIAL DE LA DIP. NOGALTE</direccion>
+    <codpostal>30890</codpostal>
+    <telefono>968 409 565</telefono>
+    <fconstitucion>2015-04-16T00:00:00+02:00</fconstitucion>
+  </club>
+</club-pensionistas>
