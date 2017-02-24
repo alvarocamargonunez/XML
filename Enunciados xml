@@ -1,0 +1,7 @@
+----XML---
+
+1)Listar todos los clubs.
+2)Muesta el nombre de cada club y su numero de registro.
+3) Introducir el nombre de un club y mostrar su dirección.
+4)Introduce una subcadena , en el caso que coincida con un numero de teléfono muestre de que club se trata.
+5)Muestra los clubs que su numero de telefono sea un telefono fijo (empiecen por 9)
