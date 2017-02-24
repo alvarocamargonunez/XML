@@ -1,0 +1,12 @@
+﻿
+
+
+
+----XML---
+
+1)Listar todos los clubs.
+2)Contar numeros de clubes.
+3) Introducir el nombre de un club y mostrar su dirección.
+4)Introduce una subcadena , en el caso que coincida con un numero de teléfono muestre de que club se trata.
+5)Introduce un año y muestre el/los clubes que se han creado ese año.
+
