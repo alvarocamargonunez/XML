@@ -8,4 +8,7 @@ doc=arbol.findall("club")
 nombre2=raw_input("Introduce el nombre de un club:")
 for x in doc:
 	doc=x.find("nombre")
-	
+	if doc.text==nombre2:
+		nombre=x.findall("direccion")
+		for y in nombre:
+				print "La direccion del club introducido es la siguiente:", y.text
