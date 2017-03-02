@@ -8,3 +8,10 @@ doc = etree.parse("/home/alvarocamargo/Descargas/segundo año/lenguaje de marcas
 raiz = doc.getroot()
 
 directorio = raiz.findall("club")
+
+fecha = raw_input("fecha contitucion: ")
+
+for d in directorio:
+	telefono=d.findall("fconstitucion")
+	
+	
