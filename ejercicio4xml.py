@@ -17,4 +17,6 @@ for d in directorio:
 	for c in telefono:
 		
 		
-		
+		if c.text.startswith(var):
+			nombre=d.findall("nombre")
+	
