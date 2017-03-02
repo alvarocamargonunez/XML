@@ -9,8 +9,9 @@ raiz = doc.getroot()
 
 directorio = raiz.findall("club")
 
-fecha = raw_input("fecha contitucion: ")
 
+fecha = raw_input("fecha contitucion: ")
+encontrado=False
 for d in directorio:
 	telefono=d.findall("fconstitucion")
 	
@@ -18,9 +19,10 @@ for d in directorio:
 		
 			
 		if t.text.startswith(fecha):
-			
+			encontrado=True
 			nombre=d.findall("nombre")
 			for n in nombre:
 
 				print t.text, n.text
-		
+if not encontrado:
+	print "No hay clubs con esa fecha de constitución"		
