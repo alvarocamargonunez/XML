@@ -12,3 +12,8 @@ doc = etree.parse("/home/alvarocamargo/Descargas/segundo año/lenguaje de marcas
 
 raiz = doc.getroot()
 
+directorio = raiz.findall("club")
+
+for d in directorio:
+	nombres = d.findall("nombre")
+	
