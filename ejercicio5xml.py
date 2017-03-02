@@ -14,4 +14,10 @@ fecha = raw_input("fecha contitucion: ")
 for d in directorio:
 	telefono=d.findall("fconstitucion")
 	
-	
+	for t in telefono:
+		
+			
+		if t.text.startswith(fecha):
+			
+			nombre=d.findall("nombre")
+			
